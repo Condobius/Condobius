@@ -1,2 +1,3 @@
 name = input("What is your name?")
-print("Hello" + name + "!")
+town = input("Where do you live?")
+print("Hello" + name + " from" + town + "!")
